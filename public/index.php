@@ -13,4 +13,4 @@ define("VIEWS", APP.DS."views/");
 
 require_once (CORE . "app.php");
 
-// $a = new app();
+$a = new app();
